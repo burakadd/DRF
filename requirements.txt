@@ -14,7 +14,7 @@ djangorestframework-jsonapi==2.4.0
 djangorestframework-jwt==1.11.0
 djoser==1.1.5
 dnspython==1.16.0
-eventlet==0.25.0
+eventlet==0.31.0
 Flask==1.0.2
 Flask-SocketIO==4.2.0
 gevent==1.4.0
