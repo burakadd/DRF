@@ -4,7 +4,7 @@ chardet==3.0.4
 Click==7.0
 coreapi==2.3.3
 coreschema==0.0.4
-Django==2.2.5
+Django==2.2.22
 django-cors-headers==2.2.0
 django-rest-swagger==2.1.2
 django-summernote==0.8.8.6
